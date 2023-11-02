@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: Ubiquitous Cognitive Systems Group
+subtitle: University Politehnica of Bucharest
+description: The Ubiquitous Cognitive Systems Group (UCS) is a research group within the Faculty of Automatics and Control of the University Politehnica of Bucharest (UPB). The group is led by Conf. Dr. Eng. Ion-Emilian Radoi and focuses on the development of intelligent systems for the analysis of human behavior in unconstrained real world scenarios.
+header: images/background.png
+footer: images/background.png
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: emilian.radoi@upb.ro
+  orcid:
+  google-scholar: yjtWIf8AAAAJ
+  # github: your-lab
+  # twitter: YourLabHandle
+  # youtube: YourLabChannel
 
 ### jekyll settings
 

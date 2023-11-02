@@ -32,11 +32,11 @@ _italic text_
 Text with extra blank lines above and below
 <br>
 <br>
- 
+
 - list item a
 - list item b
 - list item c
- 
+
 1. ordered list item 1
 2. ordered list item 2
 3. ordered list item 3
@@ -123,7 +123,7 @@ pie title Pets adopted by volunteers
 
 ## Section
 
-{% include section.html background="images/background.jpg" %}
+{% include section.html background="images/background.png" %}
 
 Section, `background`
 
@@ -131,7 +131,7 @@ Section, `background`
 
 Section, `dark=true`
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.png" dark=true %}
 
 Section, `background` `dark=true`
 
