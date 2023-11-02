@@ -1,6 +1,6 @@
 <h1 align="center">Ubiquitous Cognitive Systems</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/cosmaadrian/ucs-lab/blob/main/images/share.png?raw=true" alt="Ubiquitous Cognitive Systems">
+<img height="200" src="https://github.com/cosmaadrian/ucs-lab/blob/bb26162ad66ee6ebc4886e3e44da40ffd97ebfbb/images/share.png" alt="Ubiquitous Cognitive Systems">
 </p>
 
 Ubiquitous Cognitive Systems (UCS) is an easy-to-use, flexible website template for labs.
