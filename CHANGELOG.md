@@ -113,7 +113,6 @@ High-level comparison with pre-releases:
 - List component filters can now accept arbitrary regex.
 - Add light/dark mode toggle.
 - Pre-install selection of useful Jekyll plugins, namely Jekyll Spaceship.
-- Add author portrait and updated date for blog posts.
 - Add richer metadata for SEO.
 - Google Fonts link determined automatically from theme file.
 

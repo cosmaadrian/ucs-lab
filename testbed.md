@@ -214,10 +214,6 @@ _Lorem_ **ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 
 ---
 
-### List blog posts
-
-{% include list.html data="posts" component="post-excerpt" %}
-
 {% include section.html %}
 
 ## Citation
@@ -272,8 +268,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Tags
-
-{% include tags.html tags="ovarian cancer, dataset, gene expression" repo="greenelab/lab-website-template" link="blog" %}
 
 {% include section.html %}
 
@@ -343,15 +337,6 @@ With figure components
 {% include list.html data="citations" component="citation" %}
 {% endcapture %}
 {% include grid.html content=content %}
-
-### Grid of blog posts
-
-{% capture content %}
-{% include list.html data="posts" component="post-excerpt" %}
-{% endcapture %}
-{% include grid.html content=content %}
-
-{% include section.html %}
 
 ## Cols
 

@@ -22,7 +22,6 @@ Spend less time worrying about managing a website and citations, and more time r
 - 👁️ Automatic pull request previews.
 - ⚙️ Easy and automated configuration.
 - 👥 Team member pages with bios, roles, and social media links.
-- 🖋️ Blog posts with tags and rich content.
 - 📱 Works and looks good on desktop and mobile.
 - 🤝 Great documentation and support (if we do say so ourselves).
 - ... and much more!
